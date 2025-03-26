@@ -1,0 +1,9 @@
+Package: com.edwin.aslrruntimepatcher
+Name: aslr_runtime_patcher
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome tool of some sort!!
+Maintainer: edwin
+Author: edwin
+Section: System
+Tag: role::hacker
